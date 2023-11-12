@@ -43,5 +43,5 @@ def detect_ai_text(text):
     else:
         print("This text is written by a human.")
 
-text = "Bu metin, yapay zeka tarafından yazılmıştır. Bu metnin şaşkınlık, patlama ve uyumluluk değerleri yüksektir. Bu metni okuyan insanlar, bunun bir yapay zeka üretimi olduğunu anlayabilirler."
+text = "The text has been written by artificial intelligence. This text has high values in terms of surprise, explosiveness, and coherence. Individuals reading this might discern that it is an artificial intelligence creation."
 detect_ai_text(text)
