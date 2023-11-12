@@ -18,7 +18,7 @@ Usage
 
 bash
 
-git clone https://github.com/your_username/AI-vs-Human-Text-Detection.git
+git clone https://github.com/yunus-EmreX/AI-vs-Human-Text-Detection.git
 
     Install the required libraries:
 
